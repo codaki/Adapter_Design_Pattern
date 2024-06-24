@@ -1,0 +1,2 @@
+SolicitudID,Candidato ID,Nombre,Apellido,Fecha de nacimiento,Número de cédula,Email,Título,Sexo,Nota,Estado,Status
+50,34,Christopher,Iza,4/3/1999,1720498375,christopheriza101@gmail.com,Ingeniero,F,0,false,
